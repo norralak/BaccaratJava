@@ -1,4 +1,4 @@
-.classpath
+[200~.classpath
 .project
 .settings/
 target/
@@ -13,6 +13,8 @@ doc/
 *.log
 *.txt
 *-all.xml
+*.mf
+nbproject
+*.xml
 
 
-/BaccaratJava/nbproject/private/
